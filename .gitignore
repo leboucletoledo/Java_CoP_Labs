@@ -1,0 +1,7 @@
+# Ignore folders
+.metadata/
+*/.settings/
+*/.vscode/
+*/README.md
+*/.classpath
+*/.project
